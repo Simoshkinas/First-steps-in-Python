@@ -12,3 +12,4 @@ def translate(phrase):
 
 
 print(translate(input("Enter your phrase: ")))
+# This is a comment
